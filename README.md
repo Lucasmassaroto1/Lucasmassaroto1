@@ -18,6 +18,18 @@
 
 ###
 
+<h2 align="left">OS</h2>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" target="_blank">
+</div>
+
+###
+
 <h2 align="left">Linguagens</h2>
 
 ###
