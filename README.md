@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá, meu nome é Lucas Silva Massaroto, eu tenho 16 anos e sou um criador de conteudo sobre tecnologias no tiktok <a href="https://www.tiktok.com/@lucasmassaroto1">@lucasmassaroto1</a>, sou iniciante na programação, me dedico muito para aprender cada vez mais, desde pequeno sempre gostei de tecnologia e meu sonho é de um dia poder trabalhar na área de t.i.</p>
+<p align="left">Olá, meu nome é Lucas Silva Massaroto, eu tenho 17 anos e sou um criador de conteudo sobre tecnologias no tiktok <a href="https://www.tiktok.com/@lucasmassaroto1">@lucasmassaroto1</a>, sou iniciante na programação, me dedico muito para aprender cada vez mais, desde pequeno sempre gostei de tecnologia e meu sonho é de um dia poder trabalhar na área de t.i.</p>
 
 ###
 
