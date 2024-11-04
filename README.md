@@ -45,7 +45,6 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="40" alt="nodejs logo"  />
 </div>
 
 ###
