@@ -13,8 +13,6 @@ Neste espaço, compartilho minhas experiências com as tecnologias que estou apr
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucasmassaroto1&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
----
-
 <!-- ##  🛠️ Tecnologias e Ferramentas -->
 
 ## 💻FrontEnd
@@ -23,8 +21,6 @@ Neste espaço, compartilho minhas experiências com as tecnologias que estou apr
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
----
-
 ## ⌨️​BackEnd
 
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
@@ -32,20 +28,14 @@ Neste espaço, compartilho minhas experiências com as tecnologias que estou apr
 [![XAMPP](https://img.shields.io/badge/XAMPP-FDB10D?style=for-the-badge&logo=xampp&logoColor=white)](https://www.apachefriends.org/)
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/downloads)
 
----
-
 ## 🎨Design
 
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com)
 [![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)](https://www.adobe.com/products/photoshop.html)
 
----
-
 ##  📚Sobre mim
 
 Sou apaixonado por tecnologia e crio conteúdo sobre esse universo no TikTok. Estou começando minha jornada na programação, sempre buscando aprender mais e mais. Meu maior objetivo é me desenvolver na área de TI e, quem sabe, um dia trabalhar com isso profissionalmente.
-
----
 
 ## 🔗 Conecte-se comigo
 
