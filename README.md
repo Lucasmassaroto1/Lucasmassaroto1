@@ -1,43 +1,53 @@
-## Olá, sou o Lucas Massaroto! 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00CA76&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00CA76&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Lucas+Massaroto;I'm+17+years+old;I+am+from+Douradina,+PR;)](https://git.io/typing-svg) 
+
+<!--## Olá, sou o Lucas Massaroto! 👋-->
 
 Seja bem-vindo ao meu perfil no GitHub! Sou criador de conteúdo e iniciante na programação, sempre em busca de novos desafios para expandir meu conhecimento e aprimorar minhas habilidades. Aqui, você encontrará meus projetos em constante evolução, com foco em soluções criativas e eficientes.
 
 Neste espaço, compartilho minhas experiências com as tecnologias que estou aprendendo, além de explorar diferentes áreas da programação e design.
 
----
-
-## 📊Estatísticas de Linguagens e GitHub
+<!--## 📊Estatísticas de Linguagens e GitHub-->
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lucasmassaroto1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucasmassaroto1&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<!-- ##  🛠️ Tecnologias e Ferramentas -->
+<div align="center">
+  
+<strong>FrontEnd</strong>
 
-## 💻FrontEnd
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+<strong>​BackEnd</strong>
 
-## ⌨️​BackEnd
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"/></code>
 
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+<!--[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)-->
+
+<strong>Ferramentas</strong>
+
+[![VsCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
 [![XAMPP](https://img.shields.io/badge/XAMPP-FDB10D?style=for-the-badge&logo=xampp&logoColor=white)](https://www.apachefriends.org/)
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/downloads)
 
-## 🎨Design
+<strong>Design</strong>
 
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com)
 [![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)](https://www.adobe.com/products/photoshop.html)
+</div>
 
-##  📚Sobre mim
+## <strong>📚Sobre mim</strong>
 
 Sou apaixonado por tecnologia e crio conteúdo sobre esse universo no TikTok. Estou começando minha jornada na programação, sempre buscando aprender mais e mais. Meu maior objetivo é me desenvolver na área de TI e, quem sabe, um dia trabalhar com isso profissionalmente.
 
-## 🔗 Conecte-se comigo
+## <strong>Conecte-se comigo</strong>
 
 Conecte-se comigo através das minhas redes sociais:
 
@@ -47,3 +57,5 @@ Conecte-se comigo através das minhas redes sociais:
 ---
 
 [![Snake](https://raw.githubusercontent.com/Lucasmassaroto1/Lucasmassaroto1/output/snake.svg)]()
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00CA76&height=120&section=footer"/>
