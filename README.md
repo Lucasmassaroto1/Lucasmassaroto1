@@ -28,6 +28,7 @@ Neste espaço, compartilho minhas experiências com as tecnologias que estou apr
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"/></code>
+<code><img height="32" src="https://skillicons.dev/icons?i=py" alt="Python"/></code>
 
 <!--[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![XAMPP](https://img.shields.io/badge/XAMPP-FDB10D?style=for-the-badge&logo=xampp&logoColor=white)](https://www.apachefriends.org/)
@@ -40,22 +41,20 @@ Neste espaço, compartilho minhas experiências com as tecnologias que estou apr
 
 <strong>Design</strong>
 
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com)
-[![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)](https://www.adobe.com/products/photoshop.html)
+<code><img height="32" src="https://skillicons.dev/icons?i=figma" alt="Figma"/></code>
+<code><img height="32" src="https://skillicons.dev/icons?i=ps" alt="Photoshop"/></code>
 </div>
 
-## <strong>📚Sobre mim</strong>
+## <strong>Sobre mim</strong>
 
 Sou apaixonado por tecnologia e crio conteúdo sobre esse universo no TikTok. Estou começando minha jornada na programação, sempre buscando aprender mais e mais. Meu maior objetivo é me desenvolver na área de TI e, quem sabe, um dia trabalhar com isso profissionalmente.
 
-## <strong>Conecte-se comigo</strong>
+## <strong>Contato</strong>
 
 Conecte-se comigo através das minhas redes sociais:
 
+<a href="https://www.instagram.com/lucasmassaroto17" target="_blank"><code><img height="32" src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/></code></a>
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@lucasmassaroto1)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasmassaroto17)
-
----
 
 [![Snake](https://raw.githubusercontent.com/Lucasmassaroto1/Lucasmassaroto1/output/snake.svg)]()
 
