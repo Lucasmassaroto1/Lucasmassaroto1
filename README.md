@@ -34,15 +34,16 @@ Neste espaço, compartilho minhas experiências com as tecnologias que estou apr
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/></code>
 <code><img height="32" src="https://skillicons.dev/icons?i=figma" alt="Figma"/></code>
 <code><img height="32" src="https://skillicons.dev/icons?i=ps" alt="Photoshop"/></code>
-</div>
 
-Sou apaixonado por tecnologia e crio conteúdo sobre esse universo no TikTok. Estou começando minha jornada na programação, sempre buscando aprender mais e mais. Meu maior objetivo é me desenvolver na área de TI e, quem sabe, um dia trabalhar com isso profissionalmente.
-
-## <strong>Contato</strong>
+<strong>Contato</strong>
 
 <a href="mailto:lucasmassaroto17@gmail.com" target="_blank"><code><img height="32" src="https://skillicons.dev/icons?i=gmail" alt="gmail"/></code></a>
 <a href="https://www.instagram.com/lucasmassaroto17" target="_blank"><code><img height="32" src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/></code></a>
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@lucasmassaroto1)
+</div>
+
+Sou apaixonado por tecnologia e crio conteúdo sobre esse universo no TikTok. Estou começando minha jornada na programação, sempre buscando aprender mais e mais. Meu maior objetivo é me desenvolver na área de TI e, quem sabe, um dia trabalhar com isso profissionalmente.
+
 
 [![Snake](https://raw.githubusercontent.com/Lucasmassaroto1/Lucasmassaroto1/output/snake.svg)]()
 
