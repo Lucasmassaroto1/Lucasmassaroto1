@@ -8,8 +8,6 @@ Seja bem-vindo ao meu perfil no GitHub! Sou criador de conteúdo e iniciante na 
 
 Neste espaço, compartilho minhas experiências com as tecnologias que estou aprendendo, além de explorar diferentes áreas da programação e design.
 
-<!--## 📊Estatísticas de Linguagens e GitHub-->
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lucasmassaroto1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucasmassaroto1&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -30,17 +28,10 @@ Neste espaço, compartilho minhas experiências com as tecnologias que estou apr
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"/></code>
 <code><img height="32" src="https://skillicons.dev/icons?i=py" alt="Python"/></code>
 
-<!--[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-[![XAMPP](https://img.shields.io/badge/XAMPP-FDB10D?style=for-the-badge&logo=xampp&logoColor=white)](https://www.apachefriends.org/)
--->
-
 <strong>Ferramentas</strong>
 
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/></code>
-
-<strong>Design</strong>
-
 <code><img height="32" src="https://skillicons.dev/icons?i=figma" alt="Figma"/></code>
 <code><img height="32" src="https://skillicons.dev/icons?i=ps" alt="Photoshop"/></code>
 </div>
