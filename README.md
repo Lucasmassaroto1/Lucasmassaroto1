@@ -36,13 +36,9 @@ Neste espaço, compartilho minhas experiências com as tecnologias que estou apr
 <code><img height="32" src="https://skillicons.dev/icons?i=ps" alt="Photoshop"/></code>
 </div>
 
-## <strong>Sobre mim</strong>
-
 Sou apaixonado por tecnologia e crio conteúdo sobre esse universo no TikTok. Estou começando minha jornada na programação, sempre buscando aprender mais e mais. Meu maior objetivo é me desenvolver na área de TI e, quem sabe, um dia trabalhar com isso profissionalmente.
 
 ## <strong>Contato</strong>
-
-Conecte-se comigo através das minhas redes sociais:
 
 <a href="https://www.instagram.com/lucasmassaroto17" target="_blank"><code><img height="32" src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/></code></a>
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@lucasmassaroto1)
