@@ -40,6 +40,7 @@ Sou apaixonado por tecnologia e crio conteúdo sobre esse universo no TikTok. Es
 
 ## <strong>Contato</strong>
 
+<a href="mailto:lucasmassaroto17@gmail.com" target="_blank"><code><img height="32" src="https://skillicons.dev/icons?i=gmail" alt="gmail"/></code></a>
 <a href="https://www.instagram.com/lucasmassaroto17" target="_blank"><code><img height="32" src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/></code></a>
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@lucasmassaroto1)
 
