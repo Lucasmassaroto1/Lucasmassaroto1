@@ -4,9 +4,13 @@
 
 <!--## Olá, sou o Lucas Massaroto! 👋-->
 
+<div align="center">
 Seja bem-vindo ao meu perfil no GitHub! Sou criador de conteúdo e iniciante na programação, sempre em busca de novos desafios para expandir meu conhecimento e aprimorar minhas habilidades. Aqui, você encontrará meus projetos em constante evolução, com foco em soluções criativas e eficientes.
 
 Neste espaço, compartilho minhas experiências com as tecnologias que estou aprendendo, além de explorar diferentes áreas da programação e design.
+
+Sou apaixonado por tecnologia e crio conteúdo sobre esse universo no TikTok. Estou começando minha jornada na programação, sempre buscando aprender mais e mais. Meu maior objetivo é me desenvolver na área de TI e, quem sabe, um dia trabalhar com isso profissionalmente.
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lucasmassaroto1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&bg_color=00000000&hide_border=true&title_color=00CA76&text_color=00CA76&icon_color=00CA76&locale=pt-br&order=1" height="150" alt="stats graph"  />
@@ -42,9 +46,9 @@ Neste espaço, compartilho minhas experiências com as tecnologias que estou apr
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@lucasmassaroto1)
 </div>
 
-Sou apaixonado por tecnologia e crio conteúdo sobre esse universo no TikTok. Estou começando minha jornada na programação, sempre buscando aprender mais e mais. Meu maior objetivo é me desenvolver na área de TI e, quem sabe, um dia trabalhar com isso profissionalmente.
-
-
+<!--Sou apaixonado por tecnologia e crio conteúdo sobre esse universo no TikTok. Estou começando minha jornada na programação, sempre buscando aprender mais e mais. Meu maior objetivo é me desenvolver na área de TI e, quem sabe, um dia trabalhar com isso profissionalmente.-->
+<div align="center">
+  
 [![Snake](https://raw.githubusercontent.com/Lucasmassaroto1/Lucasmassaroto1/output/snake.svg)]()
-
+</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00CA76&height=120&section=footer"/>
