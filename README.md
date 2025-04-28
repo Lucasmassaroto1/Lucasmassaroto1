@@ -41,9 +41,9 @@ Sou apaixonado por tecnologia e crio conteúdo sobre esse universo no TikTok. Es
 
 <strong>Contato</strong>
 
-<a href="mailto:lucasmassaroto17@gmail.com" target="_blank"><code><img height="32" src="https://skillicons.dev/icons?i=gmail" alt="gmail"/></code></a>
+<a href="https://www.tiktok.com/@lucasmassaroto1" target="_blank"><code><img height="32" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tiktok-color-icon.png" alt="TikTok"/></code></a>
 <a href="https://www.instagram.com/lucasmassaroto17" target="_blank"><code><img height="32" src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/></code></a>
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@lucasmassaroto1)
+<a href="mailto:lucasmassaroto17@gmail.com" target="_blank"><code><img height="32" src="https://skillicons.dev/icons?i=gmail" alt="gmail"/></code></a>
 </div>
 
 <!--Sou apaixonado por tecnologia e crio conteúdo sobre esse universo no TikTok. Estou começando minha jornada na programação, sempre buscando aprender mais e mais. Meu maior objetivo é me desenvolver na área de TI e, quem sabe, um dia trabalhar com isso profissionalmente.-->
