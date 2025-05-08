@@ -2,15 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00CA76&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Lucas+Massaroto;I'm+17+years+old;I+am+from+Douradina,+PR;)](https://git.io/typing-svg) 
 
-<!--## Olá, sou o Lucas Massaroto! 👋-->
-
-<div align="center">
+<!--<div align="center">
 Seja bem-vindo ao meu perfil no GitHub! Sou criador de conteúdo e iniciante na programação, sempre em busca de novos desafios para expandir meu conhecimento e aprimorar minhas habilidades. Aqui, você encontrará meus projetos em constante evolução, com foco em soluções criativas e eficientes.
 
 Neste espaço, compartilho minhas experiências com as tecnologias que estou aprendendo, além de explorar diferentes áreas da programação e design.
 
 Sou apaixonado por tecnologia e crio conteúdo sobre esse universo no TikTok. Estou começando minha jornada na programação, sempre buscando aprender mais e mais. Meu maior objetivo é me desenvolver na área de TI e, quem sabe, um dia trabalhar com isso profissionalmente.
-</div>
+</div>-->
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lucasmassaroto1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&bg_color=00000000&hide_border=true&title_color=00CA76&text_color=00CA76&icon_color=00CA76&locale=pt-br&order=1" height="150" alt="stats graph"  />
@@ -44,7 +42,6 @@ Sou apaixonado por tecnologia e crio conteúdo sobre esse universo no TikTok. Es
 <a href="mailto:lucasmassaroto17@gmail.com" target="_blank"><code><img height="32" src="https://skillicons.dev/icons?i=gmail" alt="gmail"/></code></a>
 </div>
 
-<!--Sou apaixonado por tecnologia e crio conteúdo sobre esse universo no TikTok. Estou começando minha jornada na programação, sempre buscando aprender mais e mais. Meu maior objetivo é me desenvolver na área de TI e, quem sabe, um dia trabalhar com isso profissionalmente.-->
 <div align="center">
   
 [![Snake](https://raw.githubusercontent.com/Lucasmassaroto1/Lucasmassaroto1/output/snake.svg)]()
