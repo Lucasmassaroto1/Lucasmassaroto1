@@ -36,8 +36,6 @@ Sou apaixonado por tecnologia e crio conteúdo sobre esse universo no TikTok. Es
 
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/></code>
-<code><img height="32" src="https://skillicons.dev/icons?i=figma" alt="Figma"/></code>
-<code><img height="32" src="https://skillicons.dev/icons?i=ps" alt="Photoshop"/></code>
 
 <strong>Contato</strong>
 
