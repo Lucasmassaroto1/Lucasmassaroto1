@@ -3,10 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00CA76&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Lucas+Massaroto;I'm+17+years+old;I+am+from+Douradina,+PR;)](https://git.io/typing-svg) 
 
 <div align="center">
-Seja bem-vindo ao meu perfil no GitHub! Sou criador de conteúdo e iniciante na programação, sempre em busca de novos desafios para expandir meu conhecimento e aprimorar minhas habilidades. Aqui, você encontrará meus projetos em constante evolução, com foco em soluções criativas e eficientes.
-
-Neste espaço, compartilho minhas experiências com as tecnologias que estou aprendendo, além de explorar diferentes áreas da programação e design.
-
+Seja bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor FullStack e criador de conteúdo, estou sempre em busca de novos desafios para expandir meu conhecimento e aprimorar minhas habilidades. Aqui, você encontrará meus projetos em constante evolução, com foco em soluções criativas e eficientes.
+Neste espaço, compartilho minhas experiências com as tecnologias que estou aprendendo, além de explorar diferentes áreas da programação.
 Sou apaixonado por tecnologia e crio conteúdo sobre esse universo no TikTok. Estou começando minha jornada na programação, sempre buscando aprender mais e mais. Meu maior objetivo é me desenvolver na área de TI e, quem sabe, um dia trabalhar com isso profissionalmente.
 </div>
 
