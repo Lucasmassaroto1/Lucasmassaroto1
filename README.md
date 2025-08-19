@@ -37,6 +37,10 @@ Sou apaixonado por tecnologia e crio conteúdo sobre esse universo no TikTok. Es
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/></code>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Lucasmassaroto1&theme=gruvbox&margin-w=15&no-frame=true" />
+</p>
+
 <strong>Contato</strong>
 
 <a href="https://www.tiktok.com/@lucasmassaroto1" target="_blank"><code><img height="32" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tiktok-color-icon.png" alt="TikTok"/></code></a>
