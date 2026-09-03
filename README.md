@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="./terminal.svg" alt="lucas@massaroto: ~" width="100%"/>
+</div>
+
+<!-- <div align="center">
 
 <h1><code>lucas@massaroto</code> <span style="color:#6EC6F0">~</span></h1>
 
@@ -29,4 +33,4 @@ instagram : @lucasmassaroto17
 tiktok    : @lucasmassaroto1
 email     : lucasmassaroto17@gmail.com
 
-```
+``` -->
