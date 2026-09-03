@@ -30,7 +30,3 @@ tiktok    : @lucasmassaroto1
 email     : lucasmassaroto17@gmail.com
 
 ```
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Lucasmassaroto1/Lucasmassaroto1/output/snake.svg"/>
-</div>
